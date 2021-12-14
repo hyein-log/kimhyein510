@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 ![kimhyein510's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyein510 &show_icons=true&theme=radical)
 
 [![Solved.ac
-ohio0510@naver.com](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+ohio0510](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 
