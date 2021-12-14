@@ -56,7 +56,7 @@ python manage.py runserver # 서버 실행
  pip install -r requirements.txt
 python manage.py runserver # 서버 실행
 [![Solved.ac
-ohio0510](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{userid})
 
 
 
