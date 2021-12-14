@@ -50,11 +50,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
 
 ![kimhyein510's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyein510 &show_icons=true&theme=radical)
-poetry install             # 의존성 설치
-poetry shell               # 가상환경에 진입
-python manage.py runserver # 서버 실행
- pip install -r requirements.txt
-python manage.py runserver # 서버 실행
+
 [![Solved.ac
 tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{userid})
 
