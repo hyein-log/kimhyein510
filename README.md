@@ -49,9 +49,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
 
-![여러분's GitHub stats](https://github-readme-stats.vercel.app/api?username=여러분의 깃 닉네임&show_icons=true&theme=radical)
+![kimhyein510's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyein510 &show_icons=true&theme=radical)
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohio0510@naver.com)](https://solved.ac/ohio0510@naver.com/)
 
 
 
